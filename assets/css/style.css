@@ -672,6 +672,66 @@ section {
   color: #000000;
 }
 
+
+
+/*--------------------------------------------------------------
+# Public
+--------------------------------------------------------------*/
+.public .heading h4 {
+  font-weight: 600;
+  font-size: 26px;
+  color: #9f1010;
+
+}
+.public .content ul {
+  list-style: none;
+  padding: 0;
+}
+.public .content ul li {
+  padding-bottom: 10px;
+}
+.public .content ul i {
+  font-size: 20px;
+  padding-right: 4px;
+  color: #9f1010;
+}
+.public .content p:last-child {
+  margin-bottom: 0;
+  text-align: justify;
+}
+.public .paragraph li{
+  margin-bottom: 0;
+  text-align: justify;
+  margin-top: 2%;
+  color: #000000;
+}
+
+.public .paragraph1 p{
+  margin-bottom: 0;
+  text-align: justify;
+  margin-top: 6%;
+  color: #000000;
+}
+
+/* .public .paragraph2 p{
+  margin-bottom: 0;
+  text-align: justify;
+  margin-top: 2%;
+  color: #a02121;
+}
+.public .paragraph3 p{
+  margin-bottom: 0;
+  text-align: justify;
+  margin-top: 4%;
+  color: #000000;
+}
+.public .paragraph4 p{
+  margin-bottom: 4%;
+  text-align: justify;
+  margin-top: 4%;
+  color: #000000;
+} */
+
 /*--------------------------------------------------------------
 # Our Services
 --------------------------------------------------------------*/
